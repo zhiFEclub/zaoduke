@@ -2,6 +2,7 @@
 ## 未用
 ### 程序类
 * 最近工作效率不高，是时候要招个程序员鼓励师了。
+* There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
 
 
 ### 搞笑类
