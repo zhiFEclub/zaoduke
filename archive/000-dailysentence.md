@@ -3,11 +3,13 @@
 ### 程序类
 * 最近工作效率不高，是时候要招个程序员鼓励师了。
 * There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
+* If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.-- Edward A. Murphy
+* 计算机领域任何一个问题都可以通过引入中间层来解决。
 
 
 ### 搞笑类
 * 仔细想想人生是变成大叔之后才觉得漫长！可怕啊！！
-* 网友A：七夕节快到了，求问200块预算给女朋友送什么礼物好，在线等。网友B：不如送她个自由。
+* 有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。与大家共勉之。
 
 
 ## 已用
@@ -31,8 +33,9 @@
 * 交朋友就要交那种即使变成老头了也能互叫绰号的!
 * 头发天然卷的家伙都不是坏人！
 * 为什么海水这么咸？还不是因为你们这些城市人边游泳边小便！！
+* 网友A：七夕节快到了，求问200块预算给女朋友送什么礼物好，在线等。网友B：不如送她个自由。
 
 
-## 来源
+## 主要来源
 * https://weekly.codetengu.com/
 * 银魂标题 http://www.jianshu.com/p/7f6ae151be22
