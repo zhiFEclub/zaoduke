@@ -1,5 +1,8 @@
 # JavaScript 模式之函数表达式模式 前端早读课第23期
+![](http://upload-images.jianshu.io/upload_images/7219342-ca7079a7c0dd58a5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 这个世界上只有10种人：懂二进制的和不懂二进制的。
+
+本期开始，早读课做了些改变：内容变为主题分享和文章推荐。最近的主题是 `JavaScript 模式`。本期的头图的是《自由引导人们》(假装和本期有关系)，一张很有故事的画，感兴趣的点-> https://www.zhihu.com/question/19786768 。
 
 本期编辑： [bestswifter](http://www.jianshu.com/u/3e55748920d2),[九彩拼盘](http://www.jianshu.com/u/EhUmA3)。
 
