@@ -6,7 +6,6 @@
 * If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.-- Edward A. Murphy
 * 世界上最遥远的距离不是生与死，而是你亲手制造的BUG就在你眼前，你却怎么都找不到她。
 * Have you tried turning it off and on again?
-* 傻瓜都能写出计算机能理解的程序。优秀的程序员写出的是人类能读懂的代码。
 * 按代码行数来评估软件开发的进度，就如同按重量来评估飞机建造的进度。
 * 在水上行走和按需求文档开发软件都很容易——前提是它们都是冻结状态。
 * 这不是 bug！是特性！
@@ -37,6 +36,8 @@
 * 任何你写的代码，超过 6 个月不去看它，当你再看时，都像是别人写的。
 * Talk is cheap. Show me the code.
 * 软件和教堂非常相似——建成之后我们就在祈祷。
+* 傻瓜都能写出计算机能理解的程序。优秀的程序员写出的是人类能读懂的代码。
+
 
 ### 搞笑类
 * 交朋友就要交那种即使变成老头了也能互叫绰号的!
