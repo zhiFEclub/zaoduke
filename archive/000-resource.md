@@ -3,7 +3,6 @@
 ### 程序类
 * 最近工作效率不高，是时候要招个程序员鼓励师了。
 * There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
-* If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.-- Edward A. Murphy
 * 世界上最遥远的距离不是生与死，而是你亲手制造的BUG就在你眼前，你却怎么都找不到她。
 * Have you tried turning it off and on again?
 * 按代码行数来评估软件开发的进度，就如同按重量来评估飞机建造的进度。
@@ -37,6 +36,7 @@
 * 软件和教堂非常相似——建成之后我们就在祈祷。
 * 傻瓜都能写出计算机能理解的程序。优秀的程序员写出的是人类能读懂的代码。
 * 一个人静静坐在电脑面前写代码的感觉，那是什么感觉?那是武林高手闭关修炼的感觉。
+* If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.-- Edward A. Murphy
 
 ### 搞笑类
 * 交朋友就要交那种即使变成老头了也能互叫绰号的!
@@ -54,3 +54,10 @@
 * https://weekly.codetengu.com/
 * [有关程序员的经典名言都有哪些？](https://www.zhihu.com/question/19710524)
 * 银魂标题 http://www.jianshu.com/p/7f6ae151be22
+
+## 图片
+* [gratisography](http://www.gratisography.com/)
+* [Unsplash](https://unsplash.com/) 提供可免費使用的高质量照片网站
+* [Foodies Feed](https://foodiesfeed.com/crunchy-sunny-side-eggs-bacon/) 以「食物」为主题的免费摄影照片图库
+* [picjumbo](https://picjumbo.com/)
+* [streetwill](http://streetwill.co/)
