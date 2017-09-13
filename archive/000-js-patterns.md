@@ -1,5 +1,5 @@
-# JavaScript 模式之 前端早读课第期
-> 
+# jQery 模式之 前端早读课第期
+> [streetwill](http://streetwill.co/)
 
 本期编辑： 。
 
