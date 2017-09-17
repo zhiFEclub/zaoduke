@@ -2,7 +2,6 @@
 ## 未用
 ### 程序类
 * 最近工作效率不高，是时候要招个程序员鼓励师了。
-* There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
 * 世界上最遥远的距离不是生与死，而是你亲手制造的BUG就在你眼前，你却怎么都找不到她。
 * Have you tried turning it off and on again?
 * 在水上行走和按需求文档开发软件都很容易——前提是它们都是冻结状态。
@@ -36,6 +35,7 @@
 * If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.-- Edward A. Murphy
 * A：借我1000块。B：拿去，1024，我给你凑了个整儿。
 * 按代码行数来评估软件开发的进度，就如同按重量来评估飞机建造的进度。
+* There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
 
 
 ### 搞笑类
@@ -48,6 +48,7 @@
 ### 励志
 * 每一件绝世无双的好作品都是以无比寂寞的勤奋为前提,要么是血,要么是汗,要么是 大把曼妙的青春时光。
 * 即使生活给你一千个伤心的理由，你也要找一千零一个开心的借口。
+* 年少不知愁滋味，为赋新词常说愁。年少不听李宗盛，听懂已是不惑年。
 
 
 ## 主要来源
